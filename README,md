@@ -1,0 +1,16 @@
+# TP - Módulo de Funciones en Python
+
+Este trabajo práctico consiste en el desarrollo de una calculadora de índices corporales utilizando funciones y módulos en Python.
+
+## Funcionalidades
+- Cálculo de IMC
+- Porcentaje de grasa corporal
+- Tasa metabólica basal (reposo y actividad)
+- Calorías recomendadas para adelgazar
+
+## Archivos
+- `calculadora_indices.py`: Módulo con todas las funciones
+- `consola_calculo_*.py`: Interfaces de consola para cada cálculo
+
+## Autor
+Marcos Aguirre
